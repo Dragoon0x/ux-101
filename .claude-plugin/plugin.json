@@ -1,0 +1,19 @@
+{
+  "name": "ux-101",
+  "version": "1.0.0",
+  "description": "UX 101 \u2014 the comprehensive UX skill pack. 1001 skills and 60 commands across research, strategy, information architecture, interaction design, visual design, accessibility, content, prototyping, platforms, and specialized domains.",
+  "author": "Dragoon0x \u2014 https://x.com/0xDragoon",
+  "license": "MIT",
+  "plugins": [
+    "ux-research",
+    "ux-strategy",
+    "ux-ia",
+    "ux-interaction",
+    "ux-visual",
+    "ux-accessibility",
+    "ux-content",
+    "ux-prototyping",
+    "ux-platform",
+    "ux-specialized"
+  ]
+}
